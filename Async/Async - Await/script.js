@@ -176,7 +176,7 @@ bankOperation("5799632566");
 
 // fetch a promise
 
-
+    // Guvi Class Timeing & Data - Oct 5, 2023 / 2.20hrs
     async function fetching(){
         const result = await fetch("https://restcountries.com/v3.1/all")
         const finalresult = result.json();
