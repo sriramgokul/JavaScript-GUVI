@@ -1,3 +1,8 @@
+// async:
+// This keyword is used to declare a function as asynchronous. An asynchronous function always returns a promise.
+// await:
+// This keyword can only be used inside an async function. It pauses the execution of the function until the promise it's applied to is resolved or rejected.
+
 // When returning a Promise
 
 // function fetchAllContent(){
