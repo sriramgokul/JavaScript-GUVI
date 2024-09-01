@@ -3,6 +3,11 @@
 // await:
 // This keyword can only be used inside an async function. It pauses the execution of the function until the promise it's applied to is resolved or rejected.
 
+// FETCH():
+
+// The fetch() method starts the process of fetching a resource from a server.
+// The fetch() method returns a Promise that resolves to a Response object.
+
 // When returning a Promise
 
 // function fetchAllContent(){
